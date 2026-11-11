@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ali",
+        "mark1": 80,
+        "mark2": 90,
+        "mark3": 85,
+        "average": 85.0
+    },
+    {
+        "name": "Sara",
+        "mark1": 95,
+        "mark2": 92,
+        "mark3": 98,
+        "average": 95.0
+    },
+    {
+        "name": "Ahmed",
+        "mark1": 70,
+        "mark2": 75,
+        "mark3": 80,
+        "average": 75.0
+    }
+]

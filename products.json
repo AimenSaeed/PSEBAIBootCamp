@@ -1,0 +1,26 @@
+[
+    {
+        "price": 100,
+        "name": "Pen",
+        "stock": 10,
+        "tags": [
+            "stationery"
+        ]
+    },
+    {
+        "price": 500,
+        "name": "Bag",
+        "stock": 5,
+        "tags": [
+            "school"
+        ]
+    },
+    {
+        "price": 50,
+        "name": "Pencil",
+        "stock": 0,
+        "tags": [
+            "stationery"
+        ]
+    }
+]
